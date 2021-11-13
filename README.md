@@ -1,6 +1,8 @@
 ### Hi there 👋
 <h1>шуво. I'm Shuvo & I ❤️ code.</h1>
-<h2>Currently, I work in Mobile technology & I am always open to cooperation. | How to reach me: <a href="https://www.linkedin.com/in/shuv0karmakar/">In <img src="https://cdn.business2community.com/wp-content/uploads/2016/02/View-my-LinkedIn-profile-image-3-300x140.png.png" width="20"></a></h4>
+<h4>Currently, I work in Mobile technology & I am always open to cooperation.</h4>
+<h5>How to reach me: <a href="https://www.linkedin.com/in/shuv0karmakar/">In <img src="https://cdn.business2community.com/wp-content/uploads/2016/02/View-my-LinkedIn-profile-image-3-300x140.png.png" width="20"></a></h5>
+
 
 - ✨ Algorithm | Data Structure | ACM - ICPC
 - 🔭 I’m currently working on Native iOS | iPhone | iPad | MAC OS Development
