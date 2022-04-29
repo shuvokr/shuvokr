@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1>I'm Shuvo.</h1>
+
 <h4>Currently, I work in Mobile technology & I am always open to cooperation.</h4>
 <h5>How to reach me: <a href="https://www.linkedin.com/in/shuv0karmakar/"><img src="https://cdn.business2community.com/wp-content/uploads/2016/02/View-my-LinkedIn-profile-image-3-300x140.png.png" width="77"></a></h5>
 
