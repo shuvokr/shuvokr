@@ -7,7 +7,7 @@
 - ✨ Tech solution creator.
 - ✨ Algorithm | Data Structure | ACM - ICPC
 - 🔭 I’m currently working on Native iOS | iPhone | iPad | MAC OS Development
-- 🌱 I’m currently learning what I don't know.
+- 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on any Mobile development stack.
 
 
